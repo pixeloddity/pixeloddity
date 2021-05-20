@@ -2,5 +2,5 @@
 
 # Hello 👋, folks! I am Pixeloddity 👨🏻‍💻 
 Always learning new technologies.  
-* I am a Full Stack Casusal Developer and Designer
+* I am a Full Stack Developer and Designer
 
